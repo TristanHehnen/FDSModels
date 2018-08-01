@@ -2,7 +2,7 @@
 ! Case: SimpleCandle (from Blender Scene)
 ! Description: SimpleCandle
 ! Date: Tue, 24 Jul 2018, 23:09:11
-! File: 
+! File:
 
 &HEAD CHID='SimpleCandle'
       TITLE='SimpleCandle'
@@ -10,6 +10,8 @@
 &TIME T_END=0.
       /
 
+&SPEC ID='ETHENE', BACKGROUND=.FALSE. /
+&REAC FUEL='ETHENE'/
 
 ! --- Geometric entities (from Blender Objects)
 
