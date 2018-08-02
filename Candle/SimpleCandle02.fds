@@ -4,8 +4,8 @@
 ! Date: Tue, 24 Jul 2018, 23:09:11
 ! File:
 
-&HEAD CHID='SimpleCandle'
-      TITLE='SimpleCandle' /
+&HEAD CHID='SimpleCandle02'
+      TITLE='SimpleCandle02' /
 
  MESH ID='Domain' IJK=150,150,200 XB=-0.015,0.015,-0.015,0.015,-0.01,0.03 /
 
